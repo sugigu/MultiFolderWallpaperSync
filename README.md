@@ -1,7 +1,7 @@
 # WallpaperSync
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/github/license/sugigu/DesktopIconAutoHide)
+![License](https://img.shields.io/github/license/sugigu/MultiFolderWallpaperSync)
 
 A small PowerShell wallpaper randomizer for Windows.
 
